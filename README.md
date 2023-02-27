@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" align="right" midth="250" height="100">
+<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" align="right" midth="350" height="250">
 
 ### Hi there, I'm Kağan :blush:
 ## Software Developer
