@@ -5,7 +5,7 @@
 
 ## Software Developer
 
-<font color="cyan">Somethings ultimately happen. </font>
+<!-- <font color="cyan">Somethings ultimately happen. </font>
 
 ### Reach out to me
 
