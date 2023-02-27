@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" align="right" midth="400" height="200">
+<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" align="right" midth="400" height="260">
 
 ### Hi there, I'm Kağan :blush:
 
