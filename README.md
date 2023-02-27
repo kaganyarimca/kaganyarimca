@@ -1,7 +1,7 @@
 
 <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" align="right" midth="270" height="220">
 
-### Hi there, I'm Kağan :blush:
+### Hi there, I'm Kağan. Welcome to my page.  :blush:
 ## Software Developer
 
 <!-- <font color="cyan">Somethings ultimately happen. </font>   -->
