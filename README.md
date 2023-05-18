@@ -6,7 +6,7 @@
 <!-- <font color="cyan">Somethings ultimately happen. </font>   -->
 ### Reach out to me
 
-<a href="https://www.linkedin.com/in/kagan-yarimca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaganyarimca" height="25" width="25" /></a> <a href="https://outlook.live.com/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-email-2155119-1814289.png?f=avif&w=256" alt="kaganyarimca" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/kagan-yarimca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaganyarimca" height="25" width="25" /></a>
 <br/>
 <br/>
 ### Techs I use
