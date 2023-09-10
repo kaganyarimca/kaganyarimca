@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" align="right" midth="250" height="200">
+
 
 ### Hi there, I'm Kağan. Welcome to my page.  
 ## Software Developer
